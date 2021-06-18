@@ -93,7 +93,7 @@ function NextDialogue(reply)
 	if dgIndex <= #dialogue then 
 		ConverseNPC(dgIndex) 
 	else 
-		player:TransferToGame('deab98/prideland-mmorpg')
+		player:TransferToGame('f5bde4/prideland-the-prologue')
 	end
 	
 end
